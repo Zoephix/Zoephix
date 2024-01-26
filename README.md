@@ -22,7 +22,6 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFF)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=FFF)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=FFF)]()
-[![Prisma](https://img.shields.io/badge/Prisma-00C4B4?style=for-the-badge&logo=prisma&logoColor=FFF)]()
 
 </br>
 
@@ -56,6 +55,7 @@
 [![NGINX](https://img.shields.io/badge/NGINX-269539?style=for-the-badge&logo=nginx&logoColor=FFF)]()
 [![Tauri](https://img.shields.io/badge/Tauri-000?style=for-the-badge&logo=tauri&logoColor=FFF)]()
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox&logoColor=FFF)]()
+[![Prisma](https://img.shields.io/badge/Prisma-00C4B4?style=for-the-badge&logo=prisma&logoColor=FFF)]()
 
 <table>
   <tr>
